@@ -1,0 +1,8 @@
+<suite name="suite1">
+<test name="test1">
+     <parameter name="strun" value="qaplanet1"/>
+<classes>
+          <class name="test.packageTestNGDataEX"/>          
+</classes>     
+</test>
+</suite>
